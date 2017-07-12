@@ -1,9 +1,12 @@
 import json,requests
 from pprint import pprint
+from wit import Wit
 from django.shortcuts import render
 from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 
+wit_access_token = "WEJRB35U2WDNGJNX5OFNYGBDJSGPFLXR"
+client=Wit(access_token=wit_access_token)
 
 @csrf_exempt
 def fbchat(request):
@@ -19,6 +22,7 @@ def fbchat(request):
 				if 'message' in message:
 					fbid= message['sender']['id']
 					text= message['message']['text']
+					pprint(client.message(text))
 					postfb(fbid,text)
 
 	return HttpResponse()
