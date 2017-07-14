@@ -9,7 +9,7 @@
 </ul>-->
 
 ## Overview:-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/u_FewCSp3wo/0.jpg)](https://www.youtube.com/watch?v=u_FewCSp3wo)
+![](http://i.imgur.com/e39Mo4I.gif)
 <h2>Setup the project:-</h2><br/>
 First create the virtualenv in any Location:-
 
