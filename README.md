@@ -21,7 +21,7 @@ First create the virtualenv in any Location:-
 Clone this project in same location where your virtualenv exists:-
 
 ```
-> git clone https://github.com/vinitraj10/Facebook-messenger-bot
+> git clone https://github.com/vinitraj10/chatbot
 ```
 
 Start the virtualenv:-
