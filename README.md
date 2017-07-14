@@ -9,8 +9,7 @@
 </ul>-->
 
 ## Overview:-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u_FewCSp3wo" frameborder="0" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/u_FewCSp3wo/0.jpg)](https://www.youtube.com/watch?v=u_FewCSp3wo)
 <h2>Setup the project:-</h2><br/>
 First create the virtualenv in any Location:-
 
