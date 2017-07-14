@@ -9,7 +9,7 @@
 </ul>-->
 
 ## Overview:-
-![](http://i.imgur.com/Wfngb3B.gif)
+![](http://i.imgur.com/r4n8UMG.gif)
 <h2>Setup the project:-</h2><br/>
 First create the virtualenv in any Location:-
 
