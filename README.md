@@ -11,16 +11,20 @@
 First create the virtualenv in any Location:-
 ```
 > virtualenv chatbotenv
-
 ```
+
 Clone this project in same location where your virtualenv exists:-
+
 ```
 > git clone https://github.com/vinitraj10/Facebook-messenger-bot
 ```
+
 Start the virtualenv:-
+
 ```
 >chatbotenv\scripts\activate
 ```
+
 Open project in virtualenv and install requirements:-
 
 ```
