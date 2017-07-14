@@ -33,7 +33,7 @@ Open project in virtualenv and install requirements:-
 >cd Facebook-messenger-bot
 >pip install -r requirements.txt
 ```
-Now Go to <a href="https://wit.ai">Wit</a> and signup,create your app and follow there docs to give intents to your wit app. Or if you want my app configuration you can <a href="mailto:ent.vinit01@gmail.com" target="_top">Mail me</a>.
+Now Go to <a href="https://wit.ai">Wit</a> and signup,create your app and follow there docs to give intents to your wit app. Or if you want my app configuration you can contact me.
 So take your wit key and update in your views.py
 
 
@@ -59,7 +59,7 @@ Download <a href="https://ngrok.com/download">Ngrok</a> for your machine after u
 >ngrok http 8000
 ```
 
-you will get some https://abcd.ngrok.io link for your app ,after that go to settings.py file and update ALLOWED_HOSTS:-
+you will get some abcd.ngrok.io link for your app ,after that go to settings.py file and update ALLOWED_HOSTS:-
 
 
 ```
