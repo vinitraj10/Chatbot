@@ -9,10 +9,10 @@
 </ul>-->
 <h2>Setup the project:-</h2><br/>
 <h3>Create virtualenv:-</h3>
-<pre>
+<code>
 	>virtual chatbotenv<br/>
 	>chatbotenv\scripts\activate
-</pre>
+</code>
 
 
 
