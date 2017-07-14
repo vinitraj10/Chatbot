@@ -10,10 +10,8 @@
 <h2>Setup the project:-</h2><br/>
 <h3>Create virtualenv:-</h3>
 <code>
-	>virtual chatbotenv<br/>
-	>chatbotenv\scripts\activate
+	virtual chatbotenv
+</code><br/>
+<code>
+	chatbotenv\scripts\activate
 </code>
-
-
-
-
