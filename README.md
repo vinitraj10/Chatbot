@@ -77,6 +77,6 @@ Just make sure you give your ssl certified ngrok url (https://) to callback url 
 <ul>
 	<li><a href="https://wit.ai/docs">WIT AI DOCS</a></li>
 	<li><a href="https://developers.facebook.com/docs/messenger-platform/guides/quick-start">FACEBOOK QUICK START GUIDE</a></li>
-	<li><a href="https://github.com/wit-ai/pywit">wIT AI INTEGRATION WITH PYTHON APP</a></li>
+	<li><a href="https://github.com/wit-ai/pywit">WIT AI INTEGRATION WITH PYTHON APP</a></li>
 </ul>
 
