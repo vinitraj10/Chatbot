@@ -4,7 +4,7 @@ colorama==0.3.9
 cookies==2.2.1
 coverage==4.4.1
 dj-database-url==0.4.2
-Django==1.11.3
+Django==1.11.29
 django-hosts==2.0
 gunicorn==19.7.1
 idna==2.5
